@@ -23,7 +23,7 @@ This program is written in Java, it renames files with naming schema specified b
 1. You specify the naming schema.
 2. You specify the start value of the counter.
 3. You specify the place of the counter.
-4. It accept all file extensions.
+4. The code accepts all the types of the file extensions.
 
 # Warning
 The naming schema must be not match any file name within the folder at any moment , because it will be overwritten.
